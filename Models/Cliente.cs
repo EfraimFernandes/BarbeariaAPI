@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Barbearia.API.Models.Cliente {
+namespace Barbearia.API.Models {
     public class Cliente {
         [Key]
         public int ClienteId { get; set; }
