@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Barbearia.API.Models.Servico
+namespace Barbearia.API.Models
 {
     public class Servico
     {
