@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj": {}
+    "c:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj": {
+    "c:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj",
+        "projectUniqueName": "c:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj",
         "projectName": "Barbearia.API",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj",
+        "projectPath": "c:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\Barbearia.API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\obj\\",
+        "outputPath": "c:\\Users\\User\\OneDrive\\Documentos\\Barbearia\\Barbearia.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
