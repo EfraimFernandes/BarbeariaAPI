@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Barbearia.API.Controllers{
     [ApiController]
-    [Route("[controller]")]
+    [Route("Api/[controller]")]
     public class ServicoController : ControllerBase {
         private readonly ApplicationDbContext _dbContext;
 
