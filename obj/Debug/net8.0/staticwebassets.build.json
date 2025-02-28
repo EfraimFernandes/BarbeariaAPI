@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "HW96Lmt5rbUUt+IW1dKzTB75YVlz83wuZJXuCVXt+ug=",
+  "Hash": "5GKtgFHDL6aWbwd9WuvTHQtjlljBlFPY3fNg+bDMc8k=",
   "Source": "Barbearia.API",
   "BasePath": "_content/Barbearia.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

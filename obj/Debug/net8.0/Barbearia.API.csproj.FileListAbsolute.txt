@@ -168,3 +168,6 @@ C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\refin
 C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\Barbearia.API.pdb
 C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\Barbearia.API.genruntimeconfig.cache
 C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\ref\Barbearia.API.dll
+C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\bin\Debug\net8.0\Barbearia.API.staticwebassets.endpoints.json
+C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\OneDrive\Documentos\Barbearia\Barbearia.API\obj\Debug\net8.0\staticwebassets\msbuild.Barbearia.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
